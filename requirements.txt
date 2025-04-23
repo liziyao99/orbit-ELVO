@@ -1,0 +1,3 @@
+astropy
+poliastro
+rich
